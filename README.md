@@ -12,8 +12,8 @@
 ### TEST EXAMPLE ###
 Request:
 
-![request](https://i.ibb.co/HrWNKxQ/carbon.png)
+![request](https://i.postimg.cc/RF1mcWGh/carbon-1.png)
 
 Response:
 
-![response](https://i.postimg.cc/QdMMhJmb/carbon-5.png)
+![response](https://i.postimg.cc/pLyPgXVc/carbon-5.png)
