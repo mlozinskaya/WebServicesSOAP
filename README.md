@@ -11,7 +11,9 @@
 
 ### TEST EXAMPLE ###
 Request:
-![alt text](https://i.ibb.co/D45ZNcR/SOAP-Request.png)
+
+![alt text](https://i.ibb.co/HrWNKxQ/carbon.png)
 
 Response:
-![alt text](https://i.ibb.co/0VhswJj/SOAP-Response.png)
+
+![alt text](https://i.ibb.co/hR7DgHH/carbon-3.png)
