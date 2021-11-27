@@ -1,0 +1,28 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://bootafoaga.com/webservicesdemo"
+           targetNamespace="http://bootafoaga.com/webservicesdemo" elementFormDefault="qualified">
+
+    <xs:element name="getWeatherRequest">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="city" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="getWeatherResponse">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="name" type="tns:weather"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:complexType name="weather">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"/>
+            <xs:element name="temperature" type="xs:int"/>
+            <xs:element name="humidity" type="xs:int"/>
+            <xs:element name="description" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>

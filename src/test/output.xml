@@ -1,0 +1,1 @@
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"><SOAP-ENV:Header/><SOAP-ENV:Body><ns2:getWeatherResponse xmlns:ns2="http://bootafoaga.com/webservicesdemo"><ns2:name><ns2:name>Moscow</ns2:name><ns2:temperature>-5</ns2:temperature></ns2:name></ns2:getWeatherResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>

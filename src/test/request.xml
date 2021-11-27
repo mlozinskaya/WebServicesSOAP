@@ -1,0 +1,9 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+                  xmlns:gs="http://bootafoaga.com/webservicesdemo">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <gs:getWeatherRequest>
+            <gs:city>Moscow</gs:city>
+        </gs:getWeatherRequest>
+    </soapenv:Body>
+</soapenv:Envelope>
