@@ -16,4 +16,3 @@ Request:
 
 Response:
 
-![response](https://i.ibb.co/kyHcPgn/carbon-4.png)
